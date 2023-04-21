@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container {
+  background-color: #fa888b;
+  min-height: 100vh;
+  padding: 15px;
+}
+
+.profile-card {
+  border: 3px solid #382561;
+  padding: 10px;
+  border-radius: 40px;
+}
+
+.icon {
+  color: #382561;
+}
+
+.card-profile {
+  margin-top: 15px;
+}
+
+.profile {
+  color: #382561;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+
+.profile-name {
+  padding: 10px;
+  margin-left: 15px;
+  width: 400px;
+  border-bottom: 3px solid #382561;
+  border-right: 3px solid #382561;
+}
+
+.profile-details {
+  padding: 10px;
+  border-bottom: 3px solid #382561;
+  width: 100%;
+}
+
+.name {
+  color: #382561;
+  font-size: 40px;
+}
+
+.role {
+  color: #382561;
+  font-size: 15px;
+}
+
+.details {
+  color: #382561;
+}
+
+.work-card {
+  padding: 10px;
+  margin-left: 15px;
+}
+
+.date {
+  color: #382561;
+}
+
+.role-details {
+  font-size: 15px;
+  color: #382561;
+  margin-left: 40px;
+}
+
+.role-detailss {
+  font-size: 15px;
+  color: #382561;
+  margin-left: 40px;
+  font-weight: bold;
+}
+
+.card-work {
+  border-bottom: 3px solid #382561;
+  width: 100%;
+}
+
+.card-profiles {
+  margin-top: 40px;
+}
+
+.card-skills {
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.card-skills {
+  border-bottom: 3px solid #382651;
+  border-right: 3px solid #382651;
+  padding: 10px;
+  width: 50%;
+}
+
+.skill {
+  color: #382561;
+  margin-right: 40px;
+  margin-top: 8px;
+}
+
+.dot-icon {
+  color: #382561;
+}
+
+.dot {
+  color: #382561;
+}
+
+.award-container {
+  padding: 10px;
+  border-bottom: 3px solid #382651;
+  width: 50%;
+}
+
+.profiles {
+  color: #382561;
+}
+
+.icons-card {
+  padding: 10px;
+  margin-left: 40px;
+  border-bottom: 3px solid #382561;
+}
+
+.icons {
+  padding: 10px;
+  border-radius: 40px;
+  background-color: #382561;
+}
+
+.intrests-card {
+  border-bottom: 3px solid #382561;
+  margin-top: 8px;
+  width: 100%;
+  margin-left: 40px;
+}
+
+.icn {
+  color: #fa888b;
+}
+
+.para {
+  color: #382561;
+  margin-left: 10px;
+}
+
+.icon-card {
+  margin-left: 20px;
+}
+
+.education-card {
+  padding: 10px;
+  margin-left: 20px;
+  border-bottom: 3px solid #382561;
+  width: 100%;
+}
